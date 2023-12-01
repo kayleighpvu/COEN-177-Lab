@@ -1,0 +1,7 @@
+Step 1-2:
+It ran witout errors and warnings. 
+Because it recognized my username (kpvu), it asked for the rectangle's height and width. 
+Once I inputted some numbers, it calculated the area of the rectangle and outputted.  
+It then asked if I wanted to repeat for another rectangle which I have to answer Yes or No.  I
+f you don't capitalize the Y or N, or you spell the word wrong, then it will automatically repeat.  
+If you input something other than a normal integer number when it asks for the height and weight it will output "expr: non-integer argument" and "the area of the rectangle is " with it blank.
